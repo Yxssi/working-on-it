@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
-import { Pagination } from "flowbite-react";
+import { Pagination } from 'flowbite-react';
 
 export default function PaginationCustom() {
   const [pageIndex, setPageIndex] = useState(0);

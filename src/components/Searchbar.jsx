@@ -1,5 +1,5 @@
-import { TextInput } from "flowbite-react";
-import React from "react";
+import { TextInput } from 'flowbite-react';
+import React from 'react';
 
 export default function Searchbar() {
   return (
